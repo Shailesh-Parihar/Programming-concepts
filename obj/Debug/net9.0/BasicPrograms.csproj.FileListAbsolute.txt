@@ -1,0 +1,15 @@
+C:\Shailesh_bkp\Shailesh Learning\cSharp_Programming\BasicPrograms\bin\Debug\net9.0\BasicPrograms.exe
+C:\Shailesh_bkp\Shailesh Learning\cSharp_Programming\BasicPrograms\bin\Debug\net9.0\BasicPrograms.deps.json
+C:\Shailesh_bkp\Shailesh Learning\cSharp_Programming\BasicPrograms\bin\Debug\net9.0\BasicPrograms.runtimeconfig.json
+C:\Shailesh_bkp\Shailesh Learning\cSharp_Programming\BasicPrograms\bin\Debug\net9.0\BasicPrograms.dll
+C:\Shailesh_bkp\Shailesh Learning\cSharp_Programming\BasicPrograms\bin\Debug\net9.0\BasicPrograms.pdb
+C:\Shailesh_bkp\Shailesh Learning\cSharp_Programming\BasicPrograms\obj\Debug\net9.0\BasicPrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shailesh_bkp\Shailesh Learning\cSharp_Programming\BasicPrograms\obj\Debug\net9.0\BasicPrograms.AssemblyInfoInputs.cache
+C:\Shailesh_bkp\Shailesh Learning\cSharp_Programming\BasicPrograms\obj\Debug\net9.0\BasicPrograms.AssemblyInfo.cs
+C:\Shailesh_bkp\Shailesh Learning\cSharp_Programming\BasicPrograms\obj\Debug\net9.0\BasicPrograms.csproj.CoreCompileInputs.cache
+C:\Shailesh_bkp\Shailesh Learning\cSharp_Programming\BasicPrograms\obj\Debug\net9.0\BasicPrograms.sourcelink.json
+C:\Shailesh_bkp\Shailesh Learning\cSharp_Programming\BasicPrograms\obj\Debug\net9.0\BasicPrograms.dll
+C:\Shailesh_bkp\Shailesh Learning\cSharp_Programming\BasicPrograms\obj\Debug\net9.0\refint\BasicPrograms.dll
+C:\Shailesh_bkp\Shailesh Learning\cSharp_Programming\BasicPrograms\obj\Debug\net9.0\BasicPrograms.pdb
+C:\Shailesh_bkp\Shailesh Learning\cSharp_Programming\BasicPrograms\obj\Debug\net9.0\BasicPrograms.genruntimeconfig.cache
+C:\Shailesh_bkp\Shailesh Learning\cSharp_Programming\BasicPrograms\obj\Debug\net9.0\ref\BasicPrograms.dll
